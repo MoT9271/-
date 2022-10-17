@@ -15,6 +15,7 @@ namespace Vihlop
         public Form1()
         {
             InitializeComponent();
+            aboba
         }
     }
 }
