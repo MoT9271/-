@@ -1,0 +1,10 @@
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\bin\Debug\Vihlop.exe.config
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\bin\Debug\Vihlop.exe
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\bin\Debug\Vihlop.pdb
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.AssemblyReference.cache
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Form1.resources
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Properties.Resources.resources
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.GenerateResource.cache
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.CoreCompileInputs.cache
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.exe
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.pdb
