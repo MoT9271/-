@@ -19,7 +19,14 @@ namespace Vihlop
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Note.
+            Note.FullName.Add(FullNameBox.Text);
+            Note.MarkAuto.Add(MarkAutoBox.Text);
+            Note.Date.Add(Convert.ToString(DateBox.Text));
+            Note.CorruptName.Add(TypeCorruptBox.Text);
+            Note.Price.Add(PriceBox.Text);
+            Note.NumberAuto.Add(NumberAutoBox.Text);
+            Note.TypeWork.Add(TypeWorkBox.Text);
+
         }
     }
 }

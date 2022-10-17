@@ -14,7 +14,7 @@ namespace Vihlop
         public static List<string> NumberAuto;
         public static List<string> CorruptName;
         public static List<string> Price;
-        public static List<DateTime> Date;
+        public static List<string> Date;
 
     }
 }
