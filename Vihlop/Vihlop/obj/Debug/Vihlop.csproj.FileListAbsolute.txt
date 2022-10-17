@@ -8,6 +8,22 @@ D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.GenerateResour
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.CoreCompileInputs.cache
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.exe
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.pdb
+<<<<<<< HEAD
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Form2.resources
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Form4.resources
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Form3.resources
+=======
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\bin\Debug\Vihlop.exe.config
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\bin\Debug\Vihlop.exe
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\bin\Debug\Vihlop.pdb
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.AssemblyReference.cache
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.SuggestedBindingRedirects.cache
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.Form1.resources
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.Form2.resources
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.Form4.resources
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.Properties.Resources.resources
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.GenerateResource.cache
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.CoreCompileInputs.cache
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.exe
+D:\РИАТ\РиАТ\Lab3\Vihlop\Vihlop\obj\Debug\Vihlop.pdb
+>>>>>>> 8b287c788ae6108da9fb28a4dfb6f1c128a0fb04
