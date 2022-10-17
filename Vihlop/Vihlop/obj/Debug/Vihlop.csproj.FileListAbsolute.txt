@@ -8,3 +8,6 @@ D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.GenerateResour
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.csproj.CoreCompileInputs.cache
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.exe
 D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.pdb
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Form2.resources
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Form4.resources
+D:\Лабы\РИАТ\Lab3\-\Vihlop\Vihlop\obj\Debug\Vihlop.Form3.resources

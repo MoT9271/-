@@ -21,7 +21,7 @@ namespace Vihlop
         {
             for (int i = 0; i < Note.FullName.Count; i++)
             {
-                textBox1.Text += "Заказ №" + i + "\r\n";
+                textBox1.Text += "Заказ №" + (i + 1) + "\r\n";
                 textBox1.Text += Note.FullName[i] + "\r\n";
                 textBox1.Text += Note.MarkAuto[i] + "\r\n";
                 textBox1.Text += Note.TypeWork[i] + "\r\n";

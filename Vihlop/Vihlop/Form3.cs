@@ -16,5 +16,18 @@ namespace Vihlop
         {
             InitializeComponent();
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+            int index = int.Parse(textBox1.Text) - 1;
+            Note.Date.RemoveAt(index);
+            Note.FullName.RemoveAt(index);
+            Note.MarkAuto.RemoveAt(index);
+            Note.NumberAuto.RemoveAt(index);
+            Note.Price.RemoveAt(index);
+            Note.TypeWork.RemoveAt(index);
+            Note.CorruptName.RemoveAt(index);
+            Close();
+        }
     }
 }
