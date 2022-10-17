@@ -19,9 +19,7 @@ namespace Vihlop
 
         private void button1_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-            
-=======
+
             Note.FullName.Add(FullNameBox.Text);
             Note.MarkAuto.Add(MarkAutoBox.Text);
             Note.Date.Add(Convert.ToString(DateBox.Text));
@@ -29,8 +27,9 @@ namespace Vihlop
             Note.Price.Add(PriceBox.Text);
             Note.NumberAuto.Add(NumberAutoBox.Text);
             Note.TypeWork.Add(TypeWorkBox.Text);
-
->>>>>>> 344c63ae28c02b899d900c98a9540f46e8e86d92
+            Close();
         }
+
+        
     }
 }
