@@ -29,5 +29,14 @@ namespace Vihlop
             Note.CorruptName.RemoveAt(index);
             Close();
         }
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            char number = e.KeyChar;
+            if (!Char.IsDigit(number) && number != 44 && number != 8 && number != '-')
+            {
+                e.Handled = true;
+            }
+        }
     }
+
 }
