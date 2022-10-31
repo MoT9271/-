@@ -27,13 +27,9 @@ namespace Vihlop
             Note.Price.Add(PriceBox.Text);
             Note.NumberAuto.Add(NumberAutoBox.Text);
             Note.TypeWork.Add(TypeWorkBox.Text);
-<<<<<<< HEAD
-            
 
-
-=======
             Close();
->>>>>>> 8b287c788ae6108da9fb28a4dfb6f1c128a0fb04
+
         }
 
         
