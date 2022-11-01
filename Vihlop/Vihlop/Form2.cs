@@ -17,7 +17,7 @@ namespace Vihlop
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
         {
 
             Note.FullName.Add(FullNameBox.Text);

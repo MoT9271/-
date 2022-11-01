@@ -16,27 +16,23 @@ namespace Vihlop
         {
             InitializeComponent();
         }
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
         {
-            
-            int index = int.Parse(textBox1.Text) - 1;
-            Note.Date.RemoveAt(index);
-            Note.FullName.RemoveAt(index);
-            Note.MarkAuto.RemoveAt(index);
-            Note.NumberAuto.RemoveAt(index);
-            Note.Price.RemoveAt(index);
-            Note.TypeWork.RemoveAt(index);
-            Note.CorruptName.RemoveAt(index);
-            Close();
-        }
-        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            char number = e.KeyChar;
-            if (!Char.IsDigit(number) && number != 44 && number != 8 && number != '-')
-            {
-                e.Handled = true;
+            int a;
+            if (int.TryParse(textBox1.Text, out a) && a > 0){
+                
+                Note.Date.RemoveAt(a-1);
+                Note.FullName.RemoveAt(a - 1);
+                Note.MarkAuto.RemoveAt(a - 1);
+                Note.NumberAuto.RemoveAt(a - 1);
+                Note.Price.RemoveAt(a - 1);
+                Note.TypeWork.RemoveAt(a - 1);
+                Note.CorruptName.RemoveAt(a - 1);
+                Close();
             }
+            
         }
+        
     }
 
 }

@@ -101,7 +101,7 @@ namespace Vihlop
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Главное меню";
             this.ResumeLayout(false);
             this.PerformLayout();
 

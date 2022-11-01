@@ -41,7 +41,7 @@ namespace Vihlop
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 30);
             this.textBox1.TabIndex = 0;
-            this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
+            this.textBox1.Text = "1";
             // 
             // label1
             // 
@@ -73,7 +73,7 @@ namespace Vihlop
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "Удаление";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -81,7 +81,7 @@ namespace Vihlop
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        public System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
     }
